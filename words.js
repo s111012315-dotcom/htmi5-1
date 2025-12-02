@@ -21,4 +21,5 @@
   { word: "地球", meaning: "Earth", example: "我們應該保護地球，減少污染。(We should protect the Earth and reduce pollution.)" },
   { word: "互相", meaning: "mutually; each other", example: "我們應該互相幫助。(We should help each other.)" },
   { word: "戀愛", meaning: "romantic love; to fall in love", example: "他們正在戀愛中。(They are in a romantic relationship.)" }
-];
+]
+
